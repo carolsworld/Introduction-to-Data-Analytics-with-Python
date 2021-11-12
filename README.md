@@ -3,7 +3,7 @@
 My exercises for "Introduction to Data Analytics with Python" provided by FutureLearn
 
 
-## Course Sumamry:
+## Course Summary:
 
 Free course available at https://www.futurelearn.com/courses/introduction-to-data-analytics-with-python
 
